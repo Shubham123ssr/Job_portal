@@ -14,24 +14,24 @@ const HowItWorks = () => {
               <FaUserPlus />
               <p>Create Account</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+                Sign up and create your profile to start your journey with JobZee.
+                Provide your skills and experience to make your profile stand out.
               </p>
             </div>
             <div className="card">
               <MdFindInPage />
               <p>Find a Job/Post a Job</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+                Search for job listings that match your skills, or post a job if you're hiring.
+                Use filters to narrow down your search and find the perfect match.
               </p>
             </div>
             <div className="card">
               <IoMdSend />
               <p>Apply For Job/Recruit Suitable Candidates</p>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Consequuntur, culpa.
+                Apply for jobs that interest you with a single click, or recruit candidates by
+                reviewing applications and conducting interviews through our platform.
               </p>
             </div>
           </div>

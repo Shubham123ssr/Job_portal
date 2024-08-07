@@ -6,25 +6,25 @@ const HeroSection = () => {
     {
       id: 1,
       title: "1,23,441",
-      subTitle: "Live Job",
+      subTitle: "Live Job Postings",
       icon: <FaSuitcase />,
     },
     {
       id: 2,
-      title: "91220",
-      subTitle: "Companies",
+      title: "91,220",
+      subTitle: "Companies Hiring",
       icon: <FaBuilding />,
     },
     {
       id: 3,
       title: "2,34,200",
-      subTitle: "Job Seekers",
+      subTitle: "Job Seekers Registered",
       icon: <FaUsers />,
     },
     {
       id: 4,
       title: "1,03,761",
-      subTitle: "Employers",
+      subTitle: "Employers Registered",
       icon: <FaUserPlus />,
     },
   ];
@@ -36,9 +36,8 @@ const HeroSection = () => {
             <h1>Find a job that suits</h1>
             <h1>your interests and skills</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-              voluptate repellat modi quidem aliquid eaque ducimus ipsa et,
-              facere mollitia!
+              Explore thousands of job opportunities tailored to your skills and interests.
+              Whether you're looking for a new role or seeking top talent, JobZee is here to help.
             </p>
           </div>
           <div className="image">
